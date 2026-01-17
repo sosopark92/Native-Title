@@ -24,7 +24,7 @@ According to the [NNTT Statistics](https://www.nntt.gov.au/Pages/Statistics.aspx
 
 ## Dataset
 <aside>
-**Schedule of Native Title Determination Applications (***Date Extracted: 14-01-2026)**
+Schedule of Native Title Determination Applications (Date Extracted: 14-01-2026)
 https://digital.atlas.gov.au/datasets/digitalatlas::schedule-of-native-title-determination-applications/about
 </aside>
 
