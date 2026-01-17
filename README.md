@@ -20,7 +20,7 @@ According to the [NNTT Statistics](https://www.nntt.gov.au/Pages/Statistics.aspx
     - Native title determinations made by a court or other recognised body
     - Existence of native title
 
-*→ For this project, I used the **Schedule of Native Title Determination Applications** dataset because it provides the case-level detail behind the **“Current Applications”** view, making it possible to build a clearer, more interpretable summary.*
+→ For this project, I used the **Schedule of Native Title Determination Applications** dataset because it provides the case-level detail behind the **“Current Applications”** view, making it possible to build a clearer, more interpretable summary.
 
 ## Dataset
 <aside>
