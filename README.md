@@ -33,7 +33,7 @@ https://digital.atlas.gov.au/datasets/digitalatlas::schedule-of-native-title-det
 - **Columns**
     
     ```markdown
-    **Key fields used in this analysis:**
+    Key fields used in this analysis:
     - Identifiers: `Tribunal No`, `Fed Court No`, `Name`, `NNTT_Seq_No`
     - Categorisation: `Type`, `Status`, `Jurisdiction`
     - Registration milestones: `Reg Test Status`, `Reg Test Decision`, `Date Registered`
