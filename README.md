@@ -97,7 +97,8 @@ https://digital.atlas.gov.au/datasets/digitalatlas::schedule-of-native-title-det
 - **Skills:** Python(Pandas, Matplotlib, Writing functions, statistics), PowerBI: Dax, writing functions, calculated columns, data visualisation
 
 ## Key results
-
+![native_title_page-0001](https://github.com/user-attachments/assets/96e60291-e278-483e-87da-34dcdc660bcf)
+![native_title_page-0002](https://github.com/user-attachments/assets/260328f4-bf90-4bb2-8c1c-48ef6f2ae44d)
 - Case pipeline visibility: the caseload is not at a single stage. Many matters are lodged but have not progressed to recorded milestones (only ~64% with a reg-test decision date, ~51% with a date registered).
 - Wide variation in time-in-system: matters of very different ages coexist under “Active”, from under a month to decades, which is important context for workload interpretation.
 - Geographic concentration:* QLD, NSW and NT account for a large share of active matters in this snapshot, which is useful for resourcing and reporting narratives.
